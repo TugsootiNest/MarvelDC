@@ -214,7 +214,7 @@ body {
   height: 100%;
   display: flex;
   justify-content: space-between;
-  animation: rull 4s linear infinite;
+  animation: rull 3s linear infinite;
 }
 .pillar {
   width: 60px;
